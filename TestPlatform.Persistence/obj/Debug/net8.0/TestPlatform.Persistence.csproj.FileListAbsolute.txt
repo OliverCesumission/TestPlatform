@@ -9,3 +9,4 @@ E:\repos\Ivana\TestPlatform.Persistence\obj\Debug\net8.0\TestPlatform.Persistenc
 E:\repos\Ivana\TestPlatform.Persistence\obj\Debug\net8.0\refint\TestPlatform.Persistence.dll
 E:\repos\Ivana\TestPlatform.Persistence\obj\Debug\net8.0\TestPlatform.Persistence.pdb
 E:\repos\Ivana\TestPlatform.Persistence\obj\Debug\net8.0\ref\TestPlatform.Persistence.dll
+E:\repos\Ivana\TestPlatform.Persistence\obj\Debug\net8.0\TestPlatform.Persistence.sourcelink.json

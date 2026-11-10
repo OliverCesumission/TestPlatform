@@ -12,3 +12,4 @@ E:\repos\Ivana\TestPlatform.ConsoleTools\obj\Debug\net8.0\refint\TestPlatform.Co
 E:\repos\Ivana\TestPlatform.ConsoleTools\obj\Debug\net8.0\TestPlatform.ConsoleTools.pdb
 E:\repos\Ivana\TestPlatform.ConsoleTools\obj\Debug\net8.0\TestPlatform.ConsoleTools.genruntimeconfig.cache
 E:\repos\Ivana\TestPlatform.ConsoleTools\obj\Debug\net8.0\ref\TestPlatform.ConsoleTools.dll
+E:\repos\Ivana\TestPlatform.ConsoleTools\obj\Debug\net8.0\TestPlatform.ConsoleTools.sourcelink.json

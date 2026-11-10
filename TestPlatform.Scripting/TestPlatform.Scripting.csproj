@@ -10,4 +10,9 @@
     <ProjectReference Include="..\TestPlatform.Core\TestPlatform.Core.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Builders\" />
+    <Folder Include="Serialization\" />
+  </ItemGroup>
+
 </Project>

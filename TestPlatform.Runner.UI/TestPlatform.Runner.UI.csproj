@@ -15,4 +15,12 @@
     <ProjectReference Include="..\TestPlatform.Scripting\TestPlatform.Scripting.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Images\" />
+    <Folder Include="Model\" />
+    <Folder Include="ViewModel\" />
+    <Folder Include="View\" />
+    <Folder Include="Services\" />
+  </ItemGroup>
+
 </Project>

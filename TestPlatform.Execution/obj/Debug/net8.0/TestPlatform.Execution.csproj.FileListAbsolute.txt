@@ -17,3 +17,4 @@ E:\repos\Ivana\TestPlatform.Execution\obj\Debug\net8.0\TestPlatform.Execution.dl
 E:\repos\Ivana\TestPlatform.Execution\obj\Debug\net8.0\refint\TestPlatform.Execution.dll
 E:\repos\Ivana\TestPlatform.Execution\obj\Debug\net8.0\TestPlatform.Execution.pdb
 E:\repos\Ivana\TestPlatform.Execution\obj\Debug\net8.0\ref\TestPlatform.Execution.dll
+E:\repos\Ivana\TestPlatform.Execution\obj\Debug\net8.0\TestPlatform.Execution.sourcelink.json

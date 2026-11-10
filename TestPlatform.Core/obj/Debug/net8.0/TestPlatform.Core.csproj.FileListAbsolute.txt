@@ -9,3 +9,4 @@ E:\repos\Ivana\TestPlatform.Core\obj\Debug\net8.0\TestPlatform.Core.dll
 E:\repos\Ivana\TestPlatform.Core\obj\Debug\net8.0\refint\TestPlatform.Core.dll
 E:\repos\Ivana\TestPlatform.Core\obj\Debug\net8.0\TestPlatform.Core.pdb
 E:\repos\Ivana\TestPlatform.Core\obj\Debug\net8.0\ref\TestPlatform.Core.dll
+E:\repos\Ivana\TestPlatform.Core\obj\Debug\net8.0\TestPlatform.Core.sourcelink.json

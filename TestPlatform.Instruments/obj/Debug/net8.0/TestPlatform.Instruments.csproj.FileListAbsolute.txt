@@ -13,3 +13,4 @@ E:\repos\Ivana\TestPlatform.Instruments\obj\Debug\net8.0\TestPlatform.Instrument
 E:\repos\Ivana\TestPlatform.Instruments\obj\Debug\net8.0\refint\TestPlatform.Instruments.dll
 E:\repos\Ivana\TestPlatform.Instruments\obj\Debug\net8.0\TestPlatform.Instruments.pdb
 E:\repos\Ivana\TestPlatform.Instruments\obj\Debug\net8.0\ref\TestPlatform.Instruments.dll
+E:\repos\Ivana\TestPlatform.Instruments\obj\Debug\net8.0\TestPlatform.Instruments.sourcelink.json

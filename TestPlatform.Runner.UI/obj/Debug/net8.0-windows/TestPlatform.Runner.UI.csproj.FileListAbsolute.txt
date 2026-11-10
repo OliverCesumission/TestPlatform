@@ -32,3 +32,4 @@ E:\repos\Ivana\TestPlatform.Runner.UI\obj\Debug\net8.0-windows\refint\TestPlatfo
 E:\repos\Ivana\TestPlatform.Runner.UI\obj\Debug\net8.0-windows\TestPlatform.Runner.UI.pdb
 E:\repos\Ivana\TestPlatform.Runner.UI\obj\Debug\net8.0-windows\TestPlatform.Runner.UI.genruntimeconfig.cache
 E:\repos\Ivana\TestPlatform.Runner.UI\obj\Debug\net8.0-windows\ref\TestPlatform.Runner.UI.dll
+E:\repos\Ivana\TestPlatform.Runner.UI\obj\Debug\net8.0-windows\TestPlatform.Runner.UI.sourcelink.json

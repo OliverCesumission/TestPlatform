@@ -11,4 +11,9 @@
     <ProjectReference Include="..\TestPlatform.Templates\TestPlatform.Templates.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Actions\" />
+    <Folder Include="Engine\" />
+  </ItemGroup>
+
 </Project>

@@ -15,3 +15,4 @@ E:\repos\Ivana\TestPlatform.Templates\obj\Debug\net8.0\TestPlatform.Templates.dl
 E:\repos\Ivana\TestPlatform.Templates\obj\Debug\net8.0\refint\TestPlatform.Templates.dll
 E:\repos\Ivana\TestPlatform.Templates\obj\Debug\net8.0\TestPlatform.Templates.pdb
 E:\repos\Ivana\TestPlatform.Templates\obj\Debug\net8.0\ref\TestPlatform.Templates.dll
+E:\repos\Ivana\TestPlatform.Templates\obj\Debug\net8.0\TestPlatform.Templates.sourcelink.json

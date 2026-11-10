@@ -13,3 +13,4 @@ E:\repos\Ivana\TestPlatform.Scripting\obj\Debug\net8.0\TestPlatform.Scripting.dl
 E:\repos\Ivana\TestPlatform.Scripting\obj\Debug\net8.0\refint\TestPlatform.Scripting.dll
 E:\repos\Ivana\TestPlatform.Scripting\obj\Debug\net8.0\TestPlatform.Scripting.pdb
 E:\repos\Ivana\TestPlatform.Scripting\obj\Debug\net8.0\ref\TestPlatform.Scripting.dll
+E:\repos\Ivana\TestPlatform.Scripting\obj\Debug\net8.0\TestPlatform.Scripting.sourcelink.json
