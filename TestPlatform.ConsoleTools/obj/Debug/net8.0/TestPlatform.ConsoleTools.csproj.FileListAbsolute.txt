@@ -1,0 +1,14 @@
+E:\repos\Ivana\TestPlatform.ConsoleTools\bin\Debug\net8.0\TestPlatform.ConsoleTools.exe
+E:\repos\Ivana\TestPlatform.ConsoleTools\bin\Debug\net8.0\TestPlatform.ConsoleTools.deps.json
+E:\repos\Ivana\TestPlatform.ConsoleTools\bin\Debug\net8.0\TestPlatform.ConsoleTools.runtimeconfig.json
+E:\repos\Ivana\TestPlatform.ConsoleTools\bin\Debug\net8.0\TestPlatform.ConsoleTools.dll
+E:\repos\Ivana\TestPlatform.ConsoleTools\bin\Debug\net8.0\TestPlatform.ConsoleTools.pdb
+E:\repos\Ivana\TestPlatform.ConsoleTools\obj\Debug\net8.0\TestPlatform.ConsoleTools.GeneratedMSBuildEditorConfig.editorconfig
+E:\repos\Ivana\TestPlatform.ConsoleTools\obj\Debug\net8.0\TestPlatform.ConsoleTools.AssemblyInfoInputs.cache
+E:\repos\Ivana\TestPlatform.ConsoleTools\obj\Debug\net8.0\TestPlatform.ConsoleTools.AssemblyInfo.cs
+E:\repos\Ivana\TestPlatform.ConsoleTools\obj\Debug\net8.0\TestPlatform.ConsoleTools.csproj.CoreCompileInputs.cache
+E:\repos\Ivana\TestPlatform.ConsoleTools\obj\Debug\net8.0\TestPlatform.ConsoleTools.dll
+E:\repos\Ivana\TestPlatform.ConsoleTools\obj\Debug\net8.0\refint\TestPlatform.ConsoleTools.dll
+E:\repos\Ivana\TestPlatform.ConsoleTools\obj\Debug\net8.0\TestPlatform.ConsoleTools.pdb
+E:\repos\Ivana\TestPlatform.ConsoleTools\obj\Debug\net8.0\TestPlatform.ConsoleTools.genruntimeconfig.cache
+E:\repos\Ivana\TestPlatform.ConsoleTools\obj\Debug\net8.0\ref\TestPlatform.ConsoleTools.dll

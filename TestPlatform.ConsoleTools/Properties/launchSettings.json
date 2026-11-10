@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "TestPlatform.ConsoleTools": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

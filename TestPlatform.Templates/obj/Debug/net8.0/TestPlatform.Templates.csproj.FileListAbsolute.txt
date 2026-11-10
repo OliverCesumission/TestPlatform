@@ -1,0 +1,17 @@
+E:\repos\Ivana\TestPlatform.Templates\bin\Debug\net8.0\TestPlatform.Templates.deps.json
+E:\repos\Ivana\TestPlatform.Templates\bin\Debug\net8.0\TestPlatform.Templates.dll
+E:\repos\Ivana\TestPlatform.Templates\bin\Debug\net8.0\TestPlatform.Templates.pdb
+E:\repos\Ivana\TestPlatform.Templates\bin\Debug\net8.0\TestPlatform.Core.dll
+E:\repos\Ivana\TestPlatform.Templates\bin\Debug\net8.0\TestPlatform.Scripting.dll
+E:\repos\Ivana\TestPlatform.Templates\bin\Debug\net8.0\TestPlatform.Core.pdb
+E:\repos\Ivana\TestPlatform.Templates\bin\Debug\net8.0\TestPlatform.Scripting.pdb
+E:\repos\Ivana\TestPlatform.Templates\obj\Debug\net8.0\TestPlatform.Templates.csproj.AssemblyReference.cache
+E:\repos\Ivana\TestPlatform.Templates\obj\Debug\net8.0\TestPlatform.Templates.GeneratedMSBuildEditorConfig.editorconfig
+E:\repos\Ivana\TestPlatform.Templates\obj\Debug\net8.0\TestPlatform.Templates.AssemblyInfoInputs.cache
+E:\repos\Ivana\TestPlatform.Templates\obj\Debug\net8.0\TestPlatform.Templates.AssemblyInfo.cs
+E:\repos\Ivana\TestPlatform.Templates\obj\Debug\net8.0\TestPlatform.Templates.csproj.CoreCompileInputs.cache
+E:\repos\Ivana\TestPlatform.Templates\obj\Debug\net8.0\TestPlat.69AF7568.Up2Date
+E:\repos\Ivana\TestPlatform.Templates\obj\Debug\net8.0\TestPlatform.Templates.dll
+E:\repos\Ivana\TestPlatform.Templates\obj\Debug\net8.0\refint\TestPlatform.Templates.dll
+E:\repos\Ivana\TestPlatform.Templates\obj\Debug\net8.0\TestPlatform.Templates.pdb
+E:\repos\Ivana\TestPlatform.Templates\obj\Debug\net8.0\ref\TestPlatform.Templates.dll

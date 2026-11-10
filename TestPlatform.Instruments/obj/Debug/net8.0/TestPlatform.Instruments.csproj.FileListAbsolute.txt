@@ -1,0 +1,15 @@
+E:\repos\Ivana\TestPlatform.Instruments\bin\Debug\net8.0\TestPlatform.Instruments.deps.json
+E:\repos\Ivana\TestPlatform.Instruments\bin\Debug\net8.0\TestPlatform.Instruments.dll
+E:\repos\Ivana\TestPlatform.Instruments\bin\Debug\net8.0\TestPlatform.Instruments.pdb
+E:\repos\Ivana\TestPlatform.Instruments\bin\Debug\net8.0\TestPlatform.Core.dll
+E:\repos\Ivana\TestPlatform.Instruments\bin\Debug\net8.0\TestPlatform.Core.pdb
+E:\repos\Ivana\TestPlatform.Instruments\obj\Debug\net8.0\TestPlatform.Instruments.csproj.AssemblyReference.cache
+E:\repos\Ivana\TestPlatform.Instruments\obj\Debug\net8.0\TestPlatform.Instruments.GeneratedMSBuildEditorConfig.editorconfig
+E:\repos\Ivana\TestPlatform.Instruments\obj\Debug\net8.0\TestPlatform.Instruments.AssemblyInfoInputs.cache
+E:\repos\Ivana\TestPlatform.Instruments\obj\Debug\net8.0\TestPlatform.Instruments.AssemblyInfo.cs
+E:\repos\Ivana\TestPlatform.Instruments\obj\Debug\net8.0\TestPlatform.Instruments.csproj.CoreCompileInputs.cache
+E:\repos\Ivana\TestPlatform.Instruments\obj\Debug\net8.0\TestPlat.00437060.Up2Date
+E:\repos\Ivana\TestPlatform.Instruments\obj\Debug\net8.0\TestPlatform.Instruments.dll
+E:\repos\Ivana\TestPlatform.Instruments\obj\Debug\net8.0\refint\TestPlatform.Instruments.dll
+E:\repos\Ivana\TestPlatform.Instruments\obj\Debug\net8.0\TestPlatform.Instruments.pdb
+E:\repos\Ivana\TestPlatform.Instruments\obj\Debug\net8.0\ref\TestPlatform.Instruments.dll

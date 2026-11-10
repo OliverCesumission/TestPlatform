@@ -1,0 +1,56 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TestPlatform.Templates/1.0.0": {
+        "dependencies": {
+          "TestPlatform.Core": "1.0.0",
+          "TestPlatform.Scripting": "1.0.0"
+        },
+        "runtime": {
+          "TestPlatform.Templates.dll": {}
+        }
+      },
+      "TestPlatform.Core/1.0.0": {
+        "runtime": {
+          "TestPlatform.Core.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "TestPlatform.Scripting/1.0.0": {
+        "dependencies": {
+          "TestPlatform.Core": "1.0.0"
+        },
+        "runtime": {
+          "TestPlatform.Scripting.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TestPlatform.Templates/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TestPlatform.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TestPlatform.Scripting/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

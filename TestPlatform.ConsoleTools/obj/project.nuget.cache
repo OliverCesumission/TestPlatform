@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VWTtx0NWA0Y=",
+  "success": true,
+  "projectFilePath": "E:\\repos\\Ivana\\TestPlatform.ConsoleTools\\TestPlatform.ConsoleTools.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512"
+  ],
+  "logs": []
+}

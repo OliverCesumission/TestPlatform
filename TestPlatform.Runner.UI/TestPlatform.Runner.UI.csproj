@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TestPlatform.Execution\TestPlatform.Execution.csproj" />
+    <ProjectReference Include="..\TestPlatform.Instruments\TestPlatform.Instruments.csproj" />
+    <ProjectReference Include="..\TestPlatform.Persistence\TestPlatform.Persistence.csproj" />
+    <ProjectReference Include="..\TestPlatform.Scripting\TestPlatform.Scripting.csproj" />
+  </ItemGroup>
+
+</Project>

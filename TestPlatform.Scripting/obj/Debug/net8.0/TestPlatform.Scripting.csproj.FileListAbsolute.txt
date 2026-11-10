@@ -1,0 +1,15 @@
+E:\repos\Ivana\TestPlatform.Scripting\bin\Debug\net8.0\TestPlatform.Scripting.deps.json
+E:\repos\Ivana\TestPlatform.Scripting\bin\Debug\net8.0\TestPlatform.Scripting.dll
+E:\repos\Ivana\TestPlatform.Scripting\bin\Debug\net8.0\TestPlatform.Scripting.pdb
+E:\repos\Ivana\TestPlatform.Scripting\bin\Debug\net8.0\TestPlatform.Core.dll
+E:\repos\Ivana\TestPlatform.Scripting\bin\Debug\net8.0\TestPlatform.Core.pdb
+E:\repos\Ivana\TestPlatform.Scripting\obj\Debug\net8.0\TestPlatform.Scripting.csproj.AssemblyReference.cache
+E:\repos\Ivana\TestPlatform.Scripting\obj\Debug\net8.0\TestPlatform.Scripting.GeneratedMSBuildEditorConfig.editorconfig
+E:\repos\Ivana\TestPlatform.Scripting\obj\Debug\net8.0\TestPlatform.Scripting.AssemblyInfoInputs.cache
+E:\repos\Ivana\TestPlatform.Scripting\obj\Debug\net8.0\TestPlatform.Scripting.AssemblyInfo.cs
+E:\repos\Ivana\TestPlatform.Scripting\obj\Debug\net8.0\TestPlatform.Scripting.csproj.CoreCompileInputs.cache
+E:\repos\Ivana\TestPlatform.Scripting\obj\Debug\net8.0\TestPlat.C25D8527.Up2Date
+E:\repos\Ivana\TestPlatform.Scripting\obj\Debug\net8.0\TestPlatform.Scripting.dll
+E:\repos\Ivana\TestPlatform.Scripting\obj\Debug\net8.0\refint\TestPlatform.Scripting.dll
+E:\repos\Ivana\TestPlatform.Scripting\obj\Debug\net8.0\TestPlatform.Scripting.pdb
+E:\repos\Ivana\TestPlatform.Scripting\obj\Debug\net8.0\ref\TestPlatform.Scripting.dll

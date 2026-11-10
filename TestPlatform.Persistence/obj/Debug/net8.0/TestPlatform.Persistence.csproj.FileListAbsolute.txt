@@ -1,0 +1,11 @@
+E:\repos\Ivana\TestPlatform.Persistence\bin\Debug\net8.0\TestPlatform.Persistence.deps.json
+E:\repos\Ivana\TestPlatform.Persistence\bin\Debug\net8.0\TestPlatform.Persistence.dll
+E:\repos\Ivana\TestPlatform.Persistence\bin\Debug\net8.0\TestPlatform.Persistence.pdb
+E:\repos\Ivana\TestPlatform.Persistence\obj\Debug\net8.0\TestPlatform.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+E:\repos\Ivana\TestPlatform.Persistence\obj\Debug\net8.0\TestPlatform.Persistence.AssemblyInfoInputs.cache
+E:\repos\Ivana\TestPlatform.Persistence\obj\Debug\net8.0\TestPlatform.Persistence.AssemblyInfo.cs
+E:\repos\Ivana\TestPlatform.Persistence\obj\Debug\net8.0\TestPlatform.Persistence.csproj.CoreCompileInputs.cache
+E:\repos\Ivana\TestPlatform.Persistence\obj\Debug\net8.0\TestPlatform.Persistence.dll
+E:\repos\Ivana\TestPlatform.Persistence\obj\Debug\net8.0\refint\TestPlatform.Persistence.dll
+E:\repos\Ivana\TestPlatform.Persistence\obj\Debug\net8.0\TestPlatform.Persistence.pdb
+E:\repos\Ivana\TestPlatform.Persistence\obj\Debug\net8.0\ref\TestPlatform.Persistence.dll

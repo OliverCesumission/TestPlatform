@@ -1,0 +1,11 @@
+E:\repos\Ivana\TestPlatform.Core\bin\Debug\net8.0\TestPlatform.Core.deps.json
+E:\repos\Ivana\TestPlatform.Core\bin\Debug\net8.0\TestPlatform.Core.dll
+E:\repos\Ivana\TestPlatform.Core\bin\Debug\net8.0\TestPlatform.Core.pdb
+E:\repos\Ivana\TestPlatform.Core\obj\Debug\net8.0\TestPlatform.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\repos\Ivana\TestPlatform.Core\obj\Debug\net8.0\TestPlatform.Core.AssemblyInfoInputs.cache
+E:\repos\Ivana\TestPlatform.Core\obj\Debug\net8.0\TestPlatform.Core.AssemblyInfo.cs
+E:\repos\Ivana\TestPlatform.Core\obj\Debug\net8.0\TestPlatform.Core.csproj.CoreCompileInputs.cache
+E:\repos\Ivana\TestPlatform.Core\obj\Debug\net8.0\TestPlatform.Core.dll
+E:\repos\Ivana\TestPlatform.Core\obj\Debug\net8.0\refint\TestPlatform.Core.dll
+E:\repos\Ivana\TestPlatform.Core\obj\Debug\net8.0\TestPlatform.Core.pdb
+E:\repos\Ivana\TestPlatform.Core\obj\Debug\net8.0\ref\TestPlatform.Core.dll
